@@ -10,6 +10,7 @@
 #
 ##############################################################################
 
+0.0.0.0 bingsettingssearch.trafficmanager.net
 0.0.0.0 dcp.dc1.phillips.com
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 gate.hockeyapp.com
@@ -27,6 +28,10 @@
 0.0.0.0 swiftykeyapp.zendesk.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 update.code.visualstudio.com
 0.0.0.0 www.celebritydeathcheck.com
 0.0.0.0 www.elgoog.com
+0.0.0.0 www.msn.com
 0.0.0.0 www2.meethue.com
+0.0.0.0 www.youtube.com
+::1     www.youtube.com
