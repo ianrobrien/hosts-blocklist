@@ -11,7 +11,8 @@
 ##############################################################################
 
 0.0.0.0 bingsettingssearch.trafficmanager.net
-0.0.0.0 dcp.dc1.phillips.com
+0.0.0.0 dcp.dc1.philips.com
+::1     dcp.dc1.philips.com
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 gate.hockeyapp.com
 0.0.0.0 gate.hockeyapp.net
