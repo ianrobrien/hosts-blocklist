@@ -10,20 +10,23 @@
 #
 ##############################################################################
 
+0.0.0.0 dcp.dc1.phillips.com
+0.0.0.0 diagnostics.meethue.com
 0.0.0.0 gate.hockeyapp.com
 0.0.0.0 gate.hockeyapp.net
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 ichnaea-web.netflix.com
-0.0.0.0 telemetry.api.swiftkey.com
-0.0.0.0 swiftykeyapp.zendesk.com
-0.0.0.0 skslm.swiftkey.net
-0.0.0.0 dcp.dc1.phillips.com
-0.0.0.0 www2.meethue.com
-0.0.0.0 pay.sandbox.google.com
-0.0.0.0 pay.google.com
+0.0.0.0 ichnaea.netflix.com
 0.0.0.0 news.google.com
 0.0.0.0 notify.bugsnag.com
-0.0.0.0 telemetry-in.battle.net
 0.0.0.0 omniture.demdex.net
-0.0.0.0 www.elgoog.com
+0.0.0.0 pay.google.com
+0.0.0.0 pay.sandbox.google.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 skslm.swiftkey.net
+0.0.0.0 skslm.swiftkey.net
+0.0.0.0 swiftykeyapp.zendesk.com
+0.0.0.0 telemetry-in.battle.net
+0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 www.celebritydeathcheck.com
+0.0.0.0 www.elgoog.com
+0.0.0.0 www2.meethue.com
