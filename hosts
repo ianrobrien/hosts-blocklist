@@ -12,6 +12,7 @@
 
 0.0.0.0 192351.engine.mobileapptracking.com
 0.0.0.0 api.colornote.com
+0.0.0.0 api.leanplum.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 bingsettingssearch.trafficmanager.net
 0.0.0.0 dcp.dc1.philips.com
@@ -29,6 +30,8 @@
 0.0.0.0 onesignal.com
 0.0.0.0 pay.google.com
 0.0.0.0 pay.sandbox.google.com
+0.0.0.0 paypal.com
+::1     paypal.com
 0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 sdk.hockeyapp.net
@@ -43,6 +46,10 @@
 0.0.0.0 www.elgoog.com
 0.0.0.0 www.msn.com
 0.0.0.0 www2.meethue.com
+0.0.0.0 www.paypal.com
+::1     www.paypal.com
+0.0.0.0 www.paypalobjects.com
+::1     www.paypalobjects.com
 0.0.0.0 www.picsaypro.com
 0.0.0.0 www.youtube.com
 ::1     www.youtube.com
