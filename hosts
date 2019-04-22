@@ -15,8 +15,8 @@
 0.0.0.0 api.leanplum.com
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 bingsettingssearch.trafficmanager.net
-#0.0.0.0 dcp.dc1.philips.com
-#::1     dcp.dc1.philips.com
+0.0.0.0 dcp.dc1.philips.com
+0.0.0.0 dac-api-prod.tpv-analytics.com
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 digibites.nl
 0.0.0.0 gate.hockeyapp.com
@@ -41,6 +41,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 update.code.visualstudio.com
 0.0.0.0 www.celebritydeathcheck.com
+0.0.0.0 www.ecdinterface.philips.com
 0.0.0.0 www.elgoog.com
 0.0.0.0 www.msn.com
 0.0.0.0 www2.meethue.com
