@@ -11,6 +11,7 @@
 ##############################################################################
 
 0.0.0.0 192351.engine.mobileapptracking.com
+0.0.0.0 metrics.plex.tv
 0.0.0.0 api.colornote.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 brahe.apptimize.com
@@ -24,6 +25,7 @@
 0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 md-i-s.apptimize.com
+0.0.0.0 metrics.plex.tv
 0.0.0.0 news.google.com
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 omniture.demdex.net
