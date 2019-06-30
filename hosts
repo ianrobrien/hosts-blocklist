@@ -26,6 +26,8 @@
 0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 dockhand.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 presentationtracking.netflix.com
 
 0.0.0.0 dcp.dc1.philips.com
 0.0.0.0 dac-api-prod.tpv-analytics.com
