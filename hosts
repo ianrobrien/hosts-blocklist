@@ -21,14 +21,18 @@
 0.0.0.0 chat.hpeprint.com
 0.0.0.0 xmpp008.hpeprint.com
 
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 dockhand.netflix.com
+
 0.0.0.0 dcp.dc1.philips.com
 0.0.0.0 dac-api-prod.tpv-analytics.com
 0.0.0.0 diagnostics.meethue.com
 0.0.0.0 digibites.nl
 0.0.0.0 gate.hockeyapp.com
 0.0.0.0 gate.hockeyapp.net
-0.0.0.0 ichnaea-web.netflix.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 metrics.plex.tv
 0.0.0.0 news.google.com
