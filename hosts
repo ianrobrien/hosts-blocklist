@@ -64,6 +64,9 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 treasuredata.com
 0.0.0.0 api.treasuredata.com
+0.0.0.0 smetrics.elkjop.no
+
+# samsung smart tv
 0.0.0.0 ngfts.lge.com
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com
@@ -72,4 +75,4 @@
 0.0.0.0 www.samsungotn.net
 0.0.0.0 www.samsungrm.net
 0.0.0.0 ads.samsung.com
-0.0.0.0 smetrics.elkjop.no
+0.0.0.0 ssl-dnnstream.tns-cs.net
