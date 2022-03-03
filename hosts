@@ -1,0 +1,79 @@
+#########################################################################
+# hosts-blocklist
+#  _               _             _     _            _    _ _     _
+# | |__   ___  ___| |_ ___      | |__ | | ___   ___| | _| (_)___| |_
+# | '_ \ / _ \/ __| __/ __|_____| '_ \| |/ _ \ / __| |/ / | / __| __|
+# | | | | (_) \__ \ |_\__ \_____| |_) | | (_) | (__|   <| | \__ \ |_
+# |_| |_|\___/|___/\__|___/     |_.__/|_|\___/ \___|_|\_\_|_|___/\__|
+#
+# https://github.com/ianrobrien/hosts-blocklist/
+#
+##############################################################################
+
+0.0.0.0 192351.engine.mobileapptracking.com
+0.0.0.0 metrics.plex.tv
+0.0.0.0 api.colornote.com
+0.0.0.0 api.leanplum.com
+0.0.0.0 brahe.apptimize.com
+0.0.0.0 bingsettingssearch.trafficmanager.net
+
+0.0.0.0 ccc.hpeprint.com
+0.0.0.0 chat.hpeprint.com
+0.0.0.0 xmpp008.hpeprint.com
+
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 ichnaea-web.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 dockhand.netflix.com
+0.0.0.0 nmtracking.netflix.com
+0.0.0.0 presentationtracking.netflix.com
+
+0.0.0.0 dcp.dc1.philips.com
+0.0.0.0 dac-api-prod.tpv-analytics.com
+0.0.0.0 diagnostics.meethue.com
+0.0.0.0 digibites.nl
+0.0.0.0 gate.hockeyapp.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 md-i-s.apptimize.com
+0.0.0.0 metrics.plex.tv
+0.0.0.0 news.google.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 omniture.demdex.net
+0.0.0.0 onesignal.com
+0.0.0.0 pay.google.com
+0.0.0.0 pay.sandbox.google.com
+0.0.0.0 phillateemis.iad-03.braze.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 skslm.swiftkey.net
+0.0.0.0 swiftykeyapp.zendesk.com
+0.0.0.0 telemetry-in.battle.net
+0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 update.code.visualstudio.com
+0.0.0.0 www.celebritydeathcheck.com
+#0.0.0.0 www.ecdinterface.philips.com
+0.0.0.0 www.elgoog.com
+0.0.0.0 www.msn.com
+0.0.0.0 www2.meethue.com
+0.0.0.0 www.picsaypro.com
+0.0.0.0 cantorlytics.vsco.co
+0.0.0.0 redshell.io
+0.0.0.0 api.redshell.io
+0.0.0.0 treasuredata.com
+0.0.0.0 api.treasuredata.com
+0.0.0.0 smetrics.elkjop.no
+
+# samsung smart tv
+0.0.0.0 ngfts.lge.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com
+0.0.0.0 edgesuite.net
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 www.samsungotn.net
+0.0.0.0 www.samsungrm.net
+0.0.0.0 ads.samsung.com
+0.0.0.0 ssl-dnnstream.tns-cs.net
+0.0.0.0 gpm.samsungqbe.com
